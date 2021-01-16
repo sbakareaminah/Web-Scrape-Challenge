@@ -1,0 +1,8 @@
+.jumbo {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FMmNYEXAWxo8ohg77tCEQdcSVQf1vR0WOw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    color: white;
+    border-radius: 12%;
+    border: 2px solid black;
+};   
